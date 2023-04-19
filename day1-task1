@@ -1,0 +1,11 @@
+different between HTTP1 vs HTTP2;
+HTTP1- The standardized protocol and more than 15 years of extension
+HTTP2- A protocol for greater performance
+
+objects in javascript;
+Objects are important data types in javascript
+ object is a collection of named values having state and behavior (properties and method);
+
+internal representation in javascript;
+jsobject;
+fixedarray;
