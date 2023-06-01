@@ -1,0 +1,18 @@
+Differents between document and windows object;
+
+Document object;
+
+Webpage loaded in the Browser
+document.propertyName
+document.head
+document.title
+document.body
+
+windows object;
+
+Window is an global Object;
+it will shows entire elements
+eg;
+windows.close();
+windows.open();
+windows.innerheight();
